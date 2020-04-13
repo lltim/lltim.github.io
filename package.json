@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/lltim/lltim.github.io/issues"
   },
-  "homepage": "https://lltim.github.io/lltim.github.io",
+  "homepage": "https://lltim.github.io/mywebsite",
   "dependencies": {
     "gh-pages": "^2.2.0"
   }
